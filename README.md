@@ -1,6 +1,6 @@
 # file_storage_design
 
-A new Flutter project.
+A new Flutter project UI Design. Simple file storage system.
 
 ## Getting Started
 
